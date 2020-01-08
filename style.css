@@ -6,11 +6,15 @@ body {
   line-height: 32px;
   color: #f2f2f2;
   background-color: #080208;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("img/hero-bg.jpg ");
+  background-size: 70%;
   background-repeat: no-repeat;
   background-position: top center;
 }
 
+.hero-image{
+  color: rgb(255, 255, 255);
+}
 .container {
   max-width: 928px;
   margin: 0 auto;
